@@ -1,0 +1,10 @@
+#clock {
+    font-size: 36px;
+    text-align: center;
+    color: aqua;
+    background-color: black;
+    border-radius:50%;
+    width: 800px;
+    margin: 150px;
+    border: 10px solid violet;
+}
